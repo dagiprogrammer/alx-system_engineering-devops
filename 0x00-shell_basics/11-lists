@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 ls -la. .. /boot
+=======
+#!/bin/bash
+ls -la . .. /boot
+>>>>>>> 629138a0858583cf42cb1b33c8eeff3e5ebddc9c
